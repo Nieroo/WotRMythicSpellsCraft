@@ -1,0 +1,18 @@
+{
+    "_#ArrayMergeSettings": "Concat",
+    "Components": [
+        {
+            "$type": "faae7c00f379e66488a537d47a2919ad, CraftInfoComponent",
+            "m_Flags": "0",
+            "name": "$CraftInfoComponent$f9a9f8d6-dfba-4480-a3d8-6f424c59cfd2",
+            "PrototypeLink": {
+                "guid": "",
+                "name": ""
+            },
+            "m_Overrides": [],
+            "SpellType": "Damage",
+            "SavingThrow": "Will",
+            "AOEType": "None"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "BundlesLayout":
+    {
+        "m_Guids": [],
+        "m_Bundles": []
+    },
+    "BundleDependencies":
+    {
+        "m_List": []
+    },
+    "BlueprintPatches": [
+        {
+            "Guid": "ecf0bbd052e4d7f44892dfd0601c812e",
+            "Filename": "CraftRoot.patch"
+        },
+        {
+            "Guid": "b16d3d442bb3ed148a4a79a22ee7c880",
+            "Filename": "AngelGrantReposeCast.patch"
+        }
+    ]
+}
