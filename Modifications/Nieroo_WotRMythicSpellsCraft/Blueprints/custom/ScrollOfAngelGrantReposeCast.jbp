@@ -19,14 +19,11 @@
       "Shared": null
     },
     "m_FlavorText": {
-      "m_Key": "",
+      "m_Key": "7f7adcd6-515e-40ca-a21f-6f7715fa27cd",
       "m_OwnerString": "",
       "m_OwnerPropertyPath": "",
       "m_JsonPath": "",
-      "Shared": {
-        "assetguid": "10fb2d17f18f09f488947c9ce862ee97",
-        "stringkey": "7f7adcd6-515e-40ca-a21f-6f7715fa27cd"
-      }
+      "Shared": null
     },
     "m_NonIdentifiedNameText": {
       "m_Key": "",
@@ -47,7 +44,7 @@
       "fileid": 21300000
     },
     "m_Cost": 0,
-    "m_IsCostZero": 1,
+    "m_IsCostZero": 0,
     "m_Weight": 0.2,
     "m_IsNotable": false,
     "m_ForceStackable": false,
