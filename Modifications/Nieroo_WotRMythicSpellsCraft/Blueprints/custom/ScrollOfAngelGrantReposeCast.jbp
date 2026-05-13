@@ -1,6 +1,4 @@
 {
-    // Items/Scrolls/Artisan/ScrollOfAngelicAspect.jbp
-    // Root/CraftRoot.jbp
   "AssetId": "246e43bf114c45cd93d28ec23de16c39",
   "Data": {
     "$type": "fcf558235c4e3b747933f93af7617f7c, BlueprintItemEquipmentUsable",
