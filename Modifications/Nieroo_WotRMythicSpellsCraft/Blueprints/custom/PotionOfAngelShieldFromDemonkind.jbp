@@ -1,5 +1,5 @@
 {
-  "AssetId": "cfa9f184f1d94a9d95e22bd136da286f",
+  "AssetId": "cfa9f184f1d94a9d95e22bd136da286f", // ASSET_ID
   "Data": {
     "$type": "fcf558235c4e3b747933f93af7617f7c, BlueprintItemEquipmentUsable",
     "m_DisplayNameText": {
@@ -35,13 +35,13 @@
       "Potions"
     ],
     "CR": 0,
-    "m_Ability": "!bp_b75ff0546bf948948adb68336e2b475d",
+    "m_Ability": "!bp_b75ff0546bf948948adb68336e2b475d", // ABILITY
     "m_ActivatableAbility": null,
     "SpendCharges": true,
     "Charges": 1,
     "RestoreChargesOnRest": false,
-    "CasterLevel": 6,
-    "SpellLevel": 3,
+    "CasterLevel": 6, // CL
+    "SpellLevel": 3, // SL
     "DC": 0,
     "IsNonRemovable": false,
     "m_EquipmentEntity": null,

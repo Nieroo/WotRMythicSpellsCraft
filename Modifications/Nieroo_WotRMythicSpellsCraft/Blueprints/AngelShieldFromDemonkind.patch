@@ -4,9 +4,9 @@
         {
             "$type": "faae7c00f379e66488a537d47a2919ad, CraftInfoComponent",
             "m_Flags": "0",
-            "SpellType": "Buff",
-            "SavingThrow": "None",
-            "AOEType": "None"
+            "SpellType": "Buff", // Buff, Debuff, Damage, Summon_Polymorph, Other
+            "SavingThrow": "None", // None, Will, Reflex, Fortitude
+            "AOEType": "None" // None, AOE
         }
     ]
 }

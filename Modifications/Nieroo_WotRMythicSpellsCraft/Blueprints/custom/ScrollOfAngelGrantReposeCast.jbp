@@ -1,5 +1,5 @@
 {
-  "AssetId": "246e43bf114c45cd93d28ec23de16c39", // ASSET_ID
+  "AssetId": "246e43bf114c45cd93d28ec23de16c39",
   "Data": {
     "$type": "fcf558235c4e3b747933f93af7617f7c, BlueprintItemEquipmentUsable",
     "m_DisplayNameText": {
@@ -18,7 +18,7 @@
       "m_Key": ""
     },
     "m_Icon": {
-      "guid": "65f5a5eb41b3ce945aafe8394d2d2ccb", // ICON
+      "guid": "65f5a5eb41b3ce945aafe8394d2d2ccb",
       "fileid": 21300000
     },
     "m_Cost": 0,
@@ -37,13 +37,13 @@
         "Scrolls_RE"
     ],
     "CR": 0,
-    "m_Ability": "!bp_b16d3d442bb3ed148a4a79a22ee7c880", // ABILITY
+    "m_Ability": "!bp_b16d3d442bb3ed148a4a79a22ee7c880",
     "m_ActivatableAbility": null,
     "SpendCharges": true,
     "Charges": 1,
     "RestoreChargesOnRest": false,
-    "CasterLevel": 6, // CL
-    "SpellLevel": 3, // SL
+    "CasterLevel": 6,
+    "SpellLevel": 3,
     "DC": 0,
     "IsNonRemovable": false,
     "m_EquipmentEntity": null,
