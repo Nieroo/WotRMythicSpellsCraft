@@ -1,5 +1,5 @@
 {
-  "AssetId": "246e43bf114c45cd93d28ec23de16c39", // ASSET_ID
+  "AssetId": "cfa9f184f1d94a9d95e22bd136da286f",
   "Data": {
     "$type": "fcf558235c4e3b747933f93af7617f7c, BlueprintItemEquipmentUsable",
     "m_DisplayNameText": {
@@ -18,42 +18,40 @@
       "m_Key": ""
     },
     "m_Icon": {
-      "guid": "65f5a5eb41b3ce945aafe8394d2d2ccb", // ICON
+      "guid": "5768ed54dafd24e4eb044aa4a9dd12de",
       "fileid": 21300000
     },
     "m_Cost": 0,
     "m_IsCostZero": 0,
-    "m_Weight": 0.2,
+    "m_Weight": 0.5,
     "m_IsNotable": false,
-    "m_ForceStackable": false,
     "m_Destructible": true,
-    "m_ShardItem": "!bp_08133117418642fb9d1d2adba9785f43",
+    "m_ShardItem": "!bp_2b2107f98002425bb1309d31ff531f37",
     "m_MiscellaneousType": "None",
-    "m_InventoryPutSound": "ScrollPut",
-    "m_InventoryTakeSound": "ScrollTake",
+    "m_InventoryPutSound": "BottlePut",
+    "m_InventoryTakeSound": "BottleTake",
     "NeedSkinningForCollect": false,
     "TrashLootTypes": [
-        "Scrolls",
-        "Scrolls_RE"
+      "Potions"
     ],
     "CR": 0,
-    "m_Ability": "!bp_b16d3d442bb3ed148a4a79a22ee7c880", // ABILITY
+    "m_Ability": "!bp_b75ff0546bf948948adb68336e2b475d",
     "m_ActivatableAbility": null,
     "SpendCharges": true,
     "Charges": 1,
     "RestoreChargesOnRest": false,
-    "CasterLevel": 6, // CL
-    "SpellLevel": 3, // SL
+    "CasterLevel": 6,
+    "SpellLevel": 3,
     "DC": 0,
     "IsNonRemovable": false,
     "m_EquipmentEntity": null,
     "m_EquipmentEntityAlternatives": [],
     "m_ForcedRampColorPresetIndex": 0,
-    "Type": "Scroll",
+    "Type": "Potion",
     "m_IdentifyDC": 0,
-    "m_InventoryEquipSound": "ScrollPut",
+    "m_InventoryEquipSound": "BottlePut",
     "m_BeltItemPrefab": {
-      "AssetId": "d711efe72d029364a9ad378d5f0955c0"
+      "AssetId": "9b57d6e56c83fc14d9580c6f766fbe20"
     },
     "m_Enchantments": []
   },

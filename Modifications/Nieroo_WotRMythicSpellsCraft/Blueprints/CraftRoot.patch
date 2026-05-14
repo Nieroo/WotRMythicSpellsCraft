@@ -1,6 +1,10 @@
 {
     "_#ArrayMergeSettings": "Concat",
+    "m_PotionsItems": [
+        "!bp_cfa9f184f1d94a9d95e22bd136da286f"
+    ],
     "m_ScrollsItems": [
-        "!bp_246e43bf114c45cd93d28ec23de16c39"
+        "!bp_246e43bf114c45cd93d28ec23de16c39",
+        "!bp_8d528290bcb04f2d9f5d858922777475"
     ]
 }

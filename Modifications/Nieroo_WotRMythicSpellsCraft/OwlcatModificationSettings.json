@@ -16,6 +16,10 @@
         {
             "Guid": "b16d3d442bb3ed148a4a79a22ee7c880",
             "Filename": "AngelGrantReposeCast.patch"
+        },
+        {
+            "Guid": "b75ff0546bf948948adb68336e2b475d",
+            "Filename": "AngelShieldFromDemonkind.patch"
         }
     ]
 }
