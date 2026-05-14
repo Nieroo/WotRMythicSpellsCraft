@@ -20,6 +20,10 @@
         {
             "Guid": "b75ff0546bf948948adb68336e2b475d",
             "Filename": "AngelShieldFromDemonkind.patch"
+        },
+        {
+            "Guid": "5f83b793960047e49af1a3551afa4d58",
+            "Filename": "AngelWardOfDisease.patch"
         }
     ]
 }
