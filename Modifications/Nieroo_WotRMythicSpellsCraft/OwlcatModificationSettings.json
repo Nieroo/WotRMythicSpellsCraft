@@ -120,6 +120,10 @@
         {
             "Guid": "102e38aec2c921745a9f5c5e049d6526",
             "Filename": "AngelFortressOfTheFaithful.patch"
+        },
+        {
+            "Guid": "568084843e133374bb03fb5e6cb6f22f",
+            "Filename": "AngelSunForm.patch"
         }
     ]
 }
