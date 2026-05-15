@@ -124,6 +124,10 @@
         {
             "Guid": "568084843e133374bb03fb5e6cb6f22f",
             "Filename": "AngelSunForm.patch"
+        },
+        {
+            "Guid": "af92783492851f445abb2c01d346c376",
+            "Filename": "AngelPhoenixGift.patch"
         }
     ]
 }
