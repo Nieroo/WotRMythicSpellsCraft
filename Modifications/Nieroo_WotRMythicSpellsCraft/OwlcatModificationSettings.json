@@ -128,6 +128,10 @@
         {
             "Guid": "af92783492851f445abb2c01d346c376",
             "Filename": "AngelPhoenixGift.patch"
+        },
+        {
+            "Guid": "1b76573f991543145897702b7edc4d7a",
+            "Filename": "AngelRekindle.patch"
         }
     ]
 }
