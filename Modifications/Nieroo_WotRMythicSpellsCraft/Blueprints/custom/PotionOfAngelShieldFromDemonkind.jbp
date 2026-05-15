@@ -42,7 +42,7 @@
     "RestoreChargesOnRest": false,
     "CasterLevel": 6, // CL
     "SpellLevel": 3, // SL
-    "DC": 0,
+    "DC": 0, // DC
     "IsNonRemovable": false,
     "m_EquipmentEntity": null,
     "m_EquipmentEntityAlternatives": [],
