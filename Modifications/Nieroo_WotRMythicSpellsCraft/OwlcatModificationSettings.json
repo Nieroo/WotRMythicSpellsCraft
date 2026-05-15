@@ -84,6 +84,10 @@
         {
             "Guid": "87bcf706e376b80418903ae0d4303feb",
             "Filename": "AngelRadiantGround.patch"
+        },
+        {
+            "Guid": "edc7d27fb42b9a94bac0bee1f3286b49",
+            "Filename": "AngelWallOfLight.patch"
         }
     ]
 }
