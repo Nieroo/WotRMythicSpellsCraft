@@ -112,6 +112,10 @@
         {
             "Guid": "eb0d3e22826725d4199a3aac0db0ad50",
             "Filename": "AngelBringBackCast.patch"
+        },
+        {
+            "Guid": "ae13b1831a5c79c468584e57ea94d07d",
+            "Filename": "AngelWrathOfTheRighteous.patch"
         }
     ]
 }
