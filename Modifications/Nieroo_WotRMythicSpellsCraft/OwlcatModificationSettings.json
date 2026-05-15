@@ -136,6 +136,10 @@
         {
             "Guid": "483157d358afd1a498c2a4762f4057ba",
             "Filename": "AngelArmyOfHeaven.patch"
+        },
+        {
+            "Guid": "a948e10ecf1fa674dbae5eaae7f25a7f",
+            "Filename": "AngelEyeOfTheSun.patch"
         }
     ]
 }
