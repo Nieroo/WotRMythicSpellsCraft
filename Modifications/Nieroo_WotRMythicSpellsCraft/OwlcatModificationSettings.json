@@ -108,6 +108,10 @@
         {
             "Guid": "b8d3dd15ce1232d499d7813f570eed56",
             "Filename": "AngelAvengersBlessing.patch"
+        },
+        {
+            "Guid": "eb0d3e22826725d4199a3aac0db0ad50",
+            "Filename": "AngelBringBackCast.patch"
         }
     ]
 }
