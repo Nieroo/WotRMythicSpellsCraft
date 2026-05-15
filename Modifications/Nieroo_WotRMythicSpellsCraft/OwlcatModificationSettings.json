@@ -32,6 +32,10 @@
         {
             "Guid": "33e53b74891b4c34ba6ee3baa322beeb",
             "Filename": "AngelPureForm.patch"
+        },
+        {
+            "Guid": "041581ac635afe24daa421de5d2c2ee1",
+            "Filename": "AngelRepelTheProfane.patch"
         }
     ]
 }
