@@ -56,6 +56,10 @@
         {
             "Guid": "6fcaa7eb895239e4397e8e0781347adf",
             "Filename": "AngelWardFromHarm.patch"
+        },
+        {
+            "Guid": "ab43915fec9e61f4588447f01f2ff6e2",
+            "Filename": "AngelWardFromHarmCommunal.patch"
         }
     ]
 }
