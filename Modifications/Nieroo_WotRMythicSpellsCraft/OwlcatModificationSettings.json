@@ -100,6 +100,10 @@
         {
             "Guid": "4de4a5f242ff5dd4eb5e351bebc4a1fa",
             "Filename": "AngelGaleOfLife.patch"
+        },
+        {
+            "Guid": "52ddf5357c9c67a47b3f324bbb3a979d",
+            "Filename": "AngelSolarChains.patch"
         }
     ]
 }
