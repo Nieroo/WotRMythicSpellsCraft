@@ -96,6 +96,10 @@
         {
             "Guid": "b118f142f9bc88a44acbba737a135382",
             "Filename": "AngelStormOfJusticeAbility.patch"
+        },
+        {
+            "Guid": "4de4a5f242ff5dd4eb5e351bebc4a1fa",
+            "Filename": "AngelGaleOfLife.patch"
         }
     ]
 }
