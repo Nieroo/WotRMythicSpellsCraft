@@ -36,6 +36,10 @@
         {
             "Guid": "041581ac635afe24daa421de5d2c2ee1",
             "Filename": "AngelRepelTheProfane.patch"
+        },
+        {
+            "Guid": "68a9e6cdab0a51d428816e17fb366778",
+            "Filename": "AngelWardOfDiseaseCommunal.patch"
         }
     ]
 }
