@@ -24,6 +24,10 @@
         {
             "Guid": "5f83b793960047e49af1a3551afa4d58",
             "Filename": "AngelWardOfDisease.patch"
+        },
+        {
+            "Guid": "cc8be337fff61284caabe3340fc48294",
+            "Filename": "AngelBladeOfTheSun.patch"
         }
     ]
 }
