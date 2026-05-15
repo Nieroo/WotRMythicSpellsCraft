@@ -132,6 +132,10 @@
         {
             "Guid": "1b76573f991543145897702b7edc4d7a",
             "Filename": "AngelRekindle.patch"
+        },
+        {
+            "Guid": "483157d358afd1a498c2a4762f4057ba",
+            "Filename": "AngelArmyOfHeaven.patch"
         }
     ]
 }
