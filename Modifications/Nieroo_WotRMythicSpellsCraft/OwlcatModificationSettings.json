@@ -40,6 +40,10 @@
         {
             "Guid": "68a9e6cdab0a51d428816e17fb366778",
             "Filename": "AngelWardOfDiseaseCommunal.patch"
+        },
+        {
+            "Guid": "728071812567e814886ff1fc84fe066a",
+            "Filename": "AngelWardOfUnclean.patch"
         }
     ]
 }
