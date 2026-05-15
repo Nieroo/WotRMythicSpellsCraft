@@ -104,6 +104,10 @@
         {
             "Guid": "52ddf5357c9c67a47b3f324bbb3a979d",
             "Filename": "AngelSolarChains.patch"
+        },
+        {
+            "Guid": "b8d3dd15ce1232d499d7813f570eed56",
+            "Filename": "AngelAvengersBlessing.patch"
         }
     ]
 }
