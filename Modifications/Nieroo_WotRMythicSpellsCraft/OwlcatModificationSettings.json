@@ -88,6 +88,10 @@
         {
             "Guid": "edc7d27fb42b9a94bac0bee1f3286b49",
             "Filename": "AngelWallOfLight.patch"
+        },
+        {
+            "Guid": "201c1235b0467f741b0c46e09c85d89b",
+            "Filename": "AngelSunMarked.patch"
         }
     ]
 }
