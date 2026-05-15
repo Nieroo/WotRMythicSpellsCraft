@@ -72,6 +72,10 @@
         {
             "Guid": "b66eee357e8404d49b7d8ad58cbb7f15",
             "Filename": "AngelWardFromWeakness.patch"
+        },
+        {
+            "Guid": "d7882fc74a30f5f43afb644045299b63",
+            "Filename": "AngelAegisOfTheFaithful.patch"
         }
     ]
 }
