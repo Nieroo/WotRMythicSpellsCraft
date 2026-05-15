@@ -48,6 +48,14 @@
         {
             "Guid": "fcb5af4434f13b141986b4af2403704d",
             "Filename": "AngelWardOfUncleanCommunal.patch"
+        },
+        {
+            "Guid": "3c4c33f314a8bd64994d34ed5db2b96f",
+            "Filename": "AngelCleansingFlames.patch"
+        },
+        {
+            "Guid": "6fcaa7eb895239e4397e8e0781347adf",
+            "Filename": "AngelWardFromHarm.patch"
         }
     ]
 }
