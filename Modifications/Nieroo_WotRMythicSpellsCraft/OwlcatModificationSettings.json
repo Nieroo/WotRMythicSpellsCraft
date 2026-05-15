@@ -116,6 +116,10 @@
         {
             "Guid": "ae13b1831a5c79c468584e57ea94d07d",
             "Filename": "AngelWrathOfTheRighteous.patch"
+        },
+        {
+            "Guid": "102e38aec2c921745a9f5c5e049d6526",
+            "Filename": "AngelFortressOfTheFaithful.patch"
         }
     ]
 }
