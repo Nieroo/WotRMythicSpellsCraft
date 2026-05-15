@@ -10,7 +10,7 @@
 
 ## Установка (для Windows)
 
-1. Со страницы релизов скачайте архив с последней версией мода.
+1. Со страницы [релизов](https://github.com/Nieroo/WotRMythicSpellsCraft/releases) скачайте архив с последней версией мода.
 2. Перейдите в папку `%localappdata%low\Owlcat Games\Pathfinder Wrath Of The Righteous` (далее — папка игры).
 3. Распакуйте из архива папку `Modifications` в папку игры.
 4. Если в папке игры нет файла `OwlcatModificationManagerSettings.json`, то извлеките его в папку игры из архива.
