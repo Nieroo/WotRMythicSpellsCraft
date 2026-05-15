@@ -68,6 +68,10 @@
         {
             "Guid": "c82168800b665324f8b4807b531fea46",
             "Filename": "AngelBoltOfJusticeAbility.patch"
+        },
+        {
+            "Guid": "b66eee357e8404d49b7d8ad58cbb7f15",
+            "Filename": "AngelWardFromWeakness.patch"
         }
     ]
 }
