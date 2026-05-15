@@ -28,6 +28,10 @@
         {
             "Guid": "cc8be337fff61284caabe3340fc48294",
             "Filename": "AngelBladeOfTheSun.patch"
+        },
+        {
+            "Guid": "33e53b74891b4c34ba6ee3baa322beeb",
+            "Filename": "AngelPureForm.patch"
         }
     ]
 }
