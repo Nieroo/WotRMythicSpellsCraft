@@ -80,6 +80,10 @@
         {
             "Guid": "19e5803dbaf54de4eb02c5f50655fba9",
             "Filename": "AngelWardFromWeaknessCommunal.patch"
+        },
+        {
+            "Guid": "87bcf706e376b80418903ae0d4303feb",
+            "Filename": "AngelRadiantGround.patch"
         }
     ]
 }
