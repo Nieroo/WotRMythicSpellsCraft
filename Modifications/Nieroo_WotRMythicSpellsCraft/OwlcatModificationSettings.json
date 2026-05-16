@@ -176,6 +176,10 @@
         {
             "Guid": "de5f875a5f98d99459e45e6af8ce5dcd",
             "Filename": "Repurpose.patch"
+        },
+        {
+            "Guid": "1098095d7a88c6747aee67f8d449fa06",
+            "Filename": "DenyDeath.patch"
         }
     ]
 }
