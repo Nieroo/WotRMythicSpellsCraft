@@ -180,6 +180,22 @@
         {
             "Guid": "1098095d7a88c6747aee67f8d449fa06",
             "Filename": "DenyDeath.patch"
+        },
+        {
+            "Guid": "e346cc550c5bfdf428faa7cdb4849d8e",
+            "Filename": "SiphonTime.patch"
+        },
+        {
+            "Guid": "7bd52a86498c7854ebe99bc3cfb85bfe",
+            "Filename": "SiphonLife.patch"
+        },
+        {
+            "Guid": "0093fc0098c984c43ac239d1211d1311",
+            "Filename": "BoneShield.patch"
+        },
+        {
+            "Guid": "d6b8099f8c7be8f4492b14da84dc06d4",
+            "Filename": "FalseGrace.patch"
         }
     ]
 }
