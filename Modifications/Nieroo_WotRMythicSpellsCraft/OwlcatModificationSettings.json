@@ -140,6 +140,10 @@
         {
             "Guid": "a948e10ecf1fa674dbae5eaae7f25a7f",
             "Filename": "AngelEyeOfTheSun.patch"
+        },
+        {
+            "Guid": "921ed6a6751d71140b4e75ab7bcb9890",
+            "Filename": "MasteryOfFlesh.patch"
         }
     ]
 }
