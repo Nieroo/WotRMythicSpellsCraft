@@ -152,6 +152,18 @@
         {
             "Guid": "bbbcaa880ac0fa0479ce3ee8ac937d50",
             "Filename": "CorruptedBlood.patch"
+        },
+        {
+            "Guid": "e9c9a61b81a297942a326c91da2af8ca",
+            "Filename": "EyesOfTheBodak.patch"
+        },
+        {
+            "Guid": "81ac91fe92240a8478b5d2512c9fbec2",
+            "Filename": "VampiricBlade.patch"
+        },
+        {
+            "Guid": "0e633cc133207a849915e4d15dec8410",
+            "Filename": "ConsumeUndead.patch"
         }
     ]
 }
