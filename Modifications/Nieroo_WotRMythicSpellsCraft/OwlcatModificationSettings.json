@@ -164,6 +164,18 @@
         {
             "Guid": "0e633cc133207a849915e4d15dec8410",
             "Filename": "ConsumeUndead.patch"
+        },
+        {
+            "Guid": "cc51242ff01192b49a2e25adf096e2d0",
+            "Filename": "BoneExplosion.patch"
+        },
+        {
+            "Guid": "291524731e8b8f440b44915be833ae07",
+            "Filename": "Exsanguinate.patch"
+        },
+        {
+            "Guid": "de5f875a5f98d99459e45e6af8ce5dcd",
+            "Filename": "Repurpose.patch"
         }
     ]
 }
