@@ -148,6 +148,10 @@
         {
             "Guid": "9c2c85a3782af804880c81c1712e3a7b",
             "Filename": "PowerFromDeath.patch"
+        },
+        {
+            "Guid": "bbbcaa880ac0fa0479ce3ee8ac937d50",
+            "Filename": "CorruptedBlood.patch"
         }
     ]
 }
