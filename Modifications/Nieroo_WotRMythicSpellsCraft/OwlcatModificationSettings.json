@@ -144,6 +144,10 @@
         {
             "Guid": "921ed6a6751d71140b4e75ab7bcb9890",
             "Filename": "MasteryOfFlesh.patch"
+        },
+        {
+            "Guid": "9c2c85a3782af804880c81c1712e3a7b",
+            "Filename": "PowerFromDeath.patch"
         }
     ]
 }
