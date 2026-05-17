@@ -196,6 +196,18 @@
         {
             "Guid": "d6b8099f8c7be8f4492b14da84dc06d4",
             "Filename": "FalseGrace.patch"
+        },
+        {
+            "Guid": "a9dbff7a630003d4eafa6c9dd203cb7e",
+            "Filename": "RestoreUndead.patch"
+        },
+        {
+            "Guid": "ca8bc7d438e6b004a87222f3c32572f2",
+            "Filename": "BoneSpearConjure.patch"
+        },
+        {
+            "Guid": "edf6e91ca5a468849b8326bcc9c569b2",
+            "Filename": "FeastOfBlood.patch"
         }
     ]
 }
