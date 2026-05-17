@@ -220,6 +220,18 @@
         {
             "Guid": "41e229444616fc045a9da02f19e47f76",
             "Filename": "EmbraceOfDeath.patch"
+        },
+        {
+            "Guid": "5c377ad96e3fc4f4d9b74eba9d38f4f8",
+            "Filename": "NegativeEruption.patch"
+        },
+        {
+            "Guid": "6fd7bdd6dfa9dd943b36d65faf97ac41",
+            "Filename": "CorruptMagic.patch"
+        },
+        {
+            "Guid": "a5481866babd5214bb3ccf0710fe4d20",
+            "Filename": "FlayForPurpose.patch"
         }
     ]
 }
