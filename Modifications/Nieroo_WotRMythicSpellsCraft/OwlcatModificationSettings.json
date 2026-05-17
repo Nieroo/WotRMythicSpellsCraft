@@ -340,6 +340,18 @@
         {
             "Guid": "d7741c08ccf699e4a8a8f8ab2ed345f8",
             "Filename": "EdictOfImpenetrableFortress.patch"
+        },
+        {
+            "Guid": "91d04f9180e94065ac768959323d2002",
+            "Filename": "PerfectForm.patch"
+        },
+        {
+            "Guid": "ea036c023f074c6c964d858607d123b3",
+            "Filename": "BlackHole.patch"
+        },
+        {
+            "Guid": "6d21deddd7712fd409c94d248b75643d",
+            "Filename": "EdictOfInvulnerability.patch"
         }
     ]
 }
