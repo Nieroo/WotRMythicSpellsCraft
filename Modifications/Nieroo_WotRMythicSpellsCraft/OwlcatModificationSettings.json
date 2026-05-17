@@ -208,6 +208,10 @@
         {
             "Guid": "edf6e91ca5a468849b8326bcc9c569b2",
             "Filename": "FeastOfBlood.patch"
+        },
+        {
+            "Guid": "2abf1b69cec760d4ebc73d5ce8d79f0a",
+            "Filename": "BlessingOfUnlife.patch"
         }
     ]
 }
