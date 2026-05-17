@@ -324,6 +324,22 @@
         {
             "Guid": "b7bc99f6e3592a3499815387e1d721e2",
             "Filename": "EdictOfPerseverance.patch"
+        },
+        {
+            "Guid": "5ab2e32dd25724a488878c2a52c65ace",
+            "Filename": "EmbodimentOfOrder.patch"
+        },
+        {
+            "Guid": "756f1d07f9ae29448888ecf016fa40a7",
+            "Filename": "ZoneOfPredetermination.patch"
+        },
+        {
+            "Guid": "89bc94bd06dcf5847bb9e4d6ba1b9767",
+            "Filename": "FreezingNothingness.patch"
+        },
+        {
+            "Guid": "d7741c08ccf699e4a8a8f8ab2ed345f8",
+            "Filename": "EdictOfImpenetrableFortress.patch"
         }
     ]
 }
