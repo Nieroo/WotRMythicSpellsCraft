@@ -356,6 +356,18 @@
         {
             "Guid": "c219641a29670d44db0b30470565dede",
             "Filename": "SummonSpecialSpell.patch"
+        },
+        {
+            "Guid": "770eef29433299e4f9d21142d0706cfb",
+            "Filename": "TricksterBearsGrace.patch"
+        },
+        {
+            "Guid": "df75c9faf5829da4aabb47995d5a6f8a",
+            "Filename": "TricksterSummonBeerElementalSmall.patch"
+        },
+        {
+            "Guid": "3d1c5aa69827faf419bb17b0a8cadf9b",
+            "Filename": "TricksterFishMissile.patch"
         }
     ]
 }
