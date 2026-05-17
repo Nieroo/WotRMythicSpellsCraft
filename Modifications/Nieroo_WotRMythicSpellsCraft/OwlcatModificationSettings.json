@@ -352,6 +352,10 @@
         {
             "Guid": "6d21deddd7712fd409c94d248b75643d",
             "Filename": "EdictOfInvulnerability.patch"
+        },
+        {
+            "Guid": "c219641a29670d44db0b30470565dede",
+            "Filename": "SummonSpecialSpell.patch"
         }
     ]
 }
