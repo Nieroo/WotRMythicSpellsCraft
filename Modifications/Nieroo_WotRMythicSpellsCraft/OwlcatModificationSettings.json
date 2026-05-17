@@ -248,6 +248,14 @@
         {
             "Guid": "cc74245ba989480488925214dd925100",
             "Filename": "PitOfDespair.patch"
+        },
+        {
+            "Guid": "a508fd48695440cd8216526a859ecb53",
+            "Filename": "DragonSmite.patch"
+        },
+        {
+            "Guid": "bfc6aa5be6bc41f68ca78aef37913e9f",
+            "Filename": "DragonMight.patch"
         }
     ]
 }
