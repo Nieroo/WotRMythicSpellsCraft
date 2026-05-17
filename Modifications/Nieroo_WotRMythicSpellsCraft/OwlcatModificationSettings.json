@@ -280,6 +280,18 @@
         {
             "Guid": "d57fcfdfcffa2d346985648cb77390fb",
             "Filename": "EdictOfRetaliation.patch"
+        },
+        {
+            "Guid": "99343a2490f699b4198868a58fa0416d",
+            "Filename": "Starlight.patch"
+        },
+        {
+            "Guid": "5d28f75db5d3cc141ba5783a1a139f66",
+            "Filename": "Relativity.patch"
+        },
+        {
+            "Guid": "dfe3594aed8907248958a25614aa5281",
+            "Filename": "EdictOfNonresistance.patch"
         }
     ]
 }
