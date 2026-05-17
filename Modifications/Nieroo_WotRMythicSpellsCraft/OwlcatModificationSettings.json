@@ -212,6 +212,14 @@
         {
             "Guid": "2abf1b69cec760d4ebc73d5ce8d79f0a",
             "Filename": "BlessingOfUnlife.patch"
+        },
+        {
+            "Guid": "0d820abda7693a9418546a47eea62ea2",
+            "Filename": "DomainOfTheHungryFlesh.patch"
+        },
+        {
+            "Guid": "41e229444616fc045a9da02f19e47f76",
+            "Filename": "EmbraceOfDeath.patch"
         }
     ]
 }
