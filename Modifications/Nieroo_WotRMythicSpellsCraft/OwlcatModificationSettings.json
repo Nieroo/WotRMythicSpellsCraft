@@ -292,6 +292,22 @@
         {
             "Guid": "dfe3594aed8907248958a25614aa5281",
             "Filename": "EdictOfNonresistance.patch"
+        },
+        {
+            "Guid": "be0537e563ad07241a15c25dba990bd1",
+            "Filename": "TrueForm.patch"
+        },
+        {
+            "Guid": "4b7e6e992a4862a45bcfc9ba95bfc727",
+            "Filename": "UncertanityPrinciple.patch"
+        },
+        {
+            "Guid": "45094504ee3041f98ebf97ab1791e3d9",
+            "Filename": "PerfectPrediction.patch"
+        },
+        {
+            "Guid": "3f205f55a6e7759449772feb34edc378",
+            "Filename": "EdictOfPredetermination.patch"
         }
     ]
 }
