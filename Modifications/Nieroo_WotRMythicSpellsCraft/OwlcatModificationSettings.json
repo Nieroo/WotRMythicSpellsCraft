@@ -268,6 +268,18 @@
         {
             "Guid": "d35b16edbd5c436286e34cf7bcbdb645",
             "Filename": "ThousandBites.patch"
+        },
+        {
+            "Guid": "4733d8dd549ff544395f1684ec73c392",
+            "Filename": "CrystalMind.patch"
+        },
+        {
+            "Guid": "47c80ed8e725ede4d91f06eddcc3e75a",
+            "Filename": "EqualForce.patch"
+        },
+        {
+            "Guid": "d57fcfdfcffa2d346985648cb77390fb",
+            "Filename": "EdictOfRetaliation.patch"
         }
     ]
 }
