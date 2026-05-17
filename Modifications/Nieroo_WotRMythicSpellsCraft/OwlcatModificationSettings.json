@@ -308,6 +308,22 @@
         {
             "Guid": "3f205f55a6e7759449772feb34edc378",
             "Filename": "EdictOfPredetermination.patch"
+        },
+        {
+            "Guid": "c6195ff24255d3f46a26323de9f1187a",
+            "Filename": "ZeroState.patch"
+        },
+        {
+            "Guid": "b1723a0239d428243a1be2299696eb85",
+            "Filename": "AbsoluteOrder.patch"
+        },
+        {
+            "Guid": "1325e698f4a3f224b880e3b83a551228",
+            "Filename": "Supernova.patch"
+        },
+        {
+            "Guid": "b7bc99f6e3592a3499815387e1d721e2",
+            "Filename": "EdictOfPerseverance.patch"
         }
     ]
 }
