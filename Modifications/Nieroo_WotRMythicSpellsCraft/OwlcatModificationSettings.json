@@ -256,6 +256,18 @@
         {
             "Guid": "bfc6aa5be6bc41f68ca78aef37913e9f",
             "Filename": "DragonMight.patch"
+        },
+        {
+            "Guid": "59d08b909d684b91a137766ab22f4b1a",
+            "Filename": "DragonWrath.patch"
+        },
+        {
+            "Guid": "f7bc6e97e7d44ed8ba5c4d9f76a5a3d3",
+            "Filename": "DragonPride.patch"
+        },
+        {
+            "Guid": "d35b16edbd5c436286e34cf7bcbdb645",
+            "Filename": "ThousandBites.patch"
         }
     ]
 }
