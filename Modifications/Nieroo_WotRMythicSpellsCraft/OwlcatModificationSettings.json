@@ -232,6 +232,22 @@
         {
             "Guid": "a5481866babd5214bb3ccf0710fe4d20",
             "Filename": "FlayForPurpose.patch"
+        },
+        {
+            "Guid": "7d721be6d74f07f4d952ee8d6f8f44a0",
+            "Filename": "AbsoluteDeath.patch"
+        },
+        {
+            "Guid": "16c3fe873538010459a8a3fd61304825",
+            "Filename": "DeathRealm.patch"
+        },
+        {
+            "Guid": "24067ba8e0e69a14e83ff397826f6c6d",
+            "Filename": "DoomOfServitude.patch"
+        },
+        {
+            "Guid": "cc74245ba989480488925214dd925100",
+            "Filename": "PitOfDespair.patch"
         }
     ]
 }
