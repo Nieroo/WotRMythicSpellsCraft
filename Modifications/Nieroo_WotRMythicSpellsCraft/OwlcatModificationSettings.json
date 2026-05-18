@@ -368,6 +368,26 @@
         {
             "Guid": "3d1c5aa69827faf419bb17b0a8cadf9b",
             "Filename": "TricksterFishMissile.patch"
+        },
+        {
+            "Guid": "a68fc6abb6cb03f46a658b734d476630",
+            "Filename": "TricksterHallucinogenicCloud.patch"
+        },
+        {
+            "Guid": "bc9f91f243634c04bcee43028362b5c3",
+            "Filename": "TricksterBreathOfMoney.patch"
+        },
+        {
+            "Guid": "8dcb9c02148a704489948eaf84ab04bf",
+            "Filename": "TricksterInvisibilityAlmostGreater.patch"
+        },
+        {
+            "Guid": "8d1c8d7d4fa82884ebf99fc280d49978",
+            "Filename": "TricksterSummonBeerElementalMedium.patch"
+        },
+        {
+            "Guid": "30302d12c4aed124ba55857c7dfab114",
+            "Filename": "TricksterGloriousBeard.patch"
         }
     ]
 }
