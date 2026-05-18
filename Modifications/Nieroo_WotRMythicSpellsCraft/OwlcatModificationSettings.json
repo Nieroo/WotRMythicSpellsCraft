@@ -396,6 +396,22 @@
         {
             "Guid": "7be54b9c2801db041b39ed78167b4438",
             "Filename": "TricksterSummonGreaslyBear.patch"
+        },
+        {
+            "Guid": "a759d339d98572a42a0c6e1dcc33453d",
+            "Filename": "TricksterRainOfHalberds.patch"
+        },
+        {
+            "Guid": "0a3cd675bbee86a45a22b8bc63b5ec29",
+            "Filename": "TricksterPhantasmalHealer.patch"
+        },
+        {
+            "Guid": "d6042abe75df262498b6021eb8cc07a5",
+            "Filename": "TricksterMicroscopicProportions.patch"
+        },
+        {
+            "Guid": "31456292261253d4f996ab2e82b328a4",
+            "Filename": "TricksterSummonBeerElementalGreater.patch"
         }
     ]
 }
