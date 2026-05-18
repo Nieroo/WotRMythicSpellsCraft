@@ -1,0 +1,12 @@
+{
+    "_#ArrayMergeSettings": "Concat",
+    "Components": [
+        {
+            "$type": "faae7c00f379e66488a537d47a2919ad, CraftInfoComponent",
+            "m_Flags": "0",
+            "SpellType": "Debuff",
+            "SavingThrow": "Reflex",
+            "AOEType": "AOE"
+        }
+    ]
+}

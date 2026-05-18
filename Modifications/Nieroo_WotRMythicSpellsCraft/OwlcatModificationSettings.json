@@ -520,6 +520,22 @@
         {
             "Guid": "26aaee184eda5c545a0d353c5082cfd2",
             "Filename": "Lifebane.patch"
+        },
+        {
+            "Guid": "10f0308c40d647c42a6b4caaee7658a8",
+            "Filename": "RejuvenatingPoem.patch"
+        },
+        {
+            "Guid": "584a2f29a8f50044fa2b6d9c2a6fb82a",
+            "Filename": "VoiceOfRenewal.patch"
+        },
+        {
+            "Guid": "f1a0dd9c0b6f9654fb025875dc4b905d",
+            "Filename": "OdeToMiraculousMagic.patch"
+        },
+        {
+            "Guid": "b2d9ad1cc95d718459c09499a2e9dbf9",
+            "Filename": "FieldOfFlowers.patch"
         }
     ]
 }
