@@ -412,6 +412,22 @@
         {
             "Guid": "31456292261253d4f996ab2e82b328a4",
             "Filename": "TricksterSummonBeerElementalGreater.patch"
+        },
+        {
+            "Guid": "d7e6b7a26d2855f4cbf658122301abb7",
+            "Filename": "TricksterRecreationalPit.patch"
+        },
+        {
+            "Guid": "943328ac5bc8a734e85b5b2af3ae2bf7",
+            "Filename": "TricksterCharmWhatever.patch"
+        },
+        {
+            "Guid": "dd679ef3aa4a71a4da192aeb0040d84b",
+            "Filename": "TricksterSummonPerpetuallyAnnoyedWizard.patch"
+        },
+        {
+            "Guid": "844c042deeae2c5408f120f1b3b45c7c",
+            "Filename": "TricksterSummonBeerElementalElder.patch"
         }
     ]
 }
