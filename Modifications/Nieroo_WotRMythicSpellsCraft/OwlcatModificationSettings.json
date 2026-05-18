@@ -536,6 +536,26 @@
         {
             "Guid": "b2d9ad1cc95d718459c09499a2e9dbf9",
             "Filename": "FieldOfFlowers.patch"
+        },
+        {
+            "Guid": "17712729faf427f4fa0463bc919a0ff4",
+            "Filename": "WaterPush.patch"
+        },
+        {
+            "Guid": "2b9db9808a1aad74b94f651c5732fd3c",
+            "Filename": "NaturesGrasp.patch"
+        },
+        {
+            "Guid": "163c7697cf606334e9d7745c547d3b47",
+            "Filename": "OptimisticSmile.patch"
+        },
+        {
+            "Guid": "3ed3cef7c267cb847bfd44ed4708b726",
+            "Filename": "BelieveInYourself.patch"
+        },
+        {
+            "Guid": "1130f3e7d6a4bb444bbedc3e20dcd1dd",
+            "Filename": "RainbowDome.patch"
         }
     ]
 }
