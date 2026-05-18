@@ -440,6 +440,22 @@
         {
             "Guid": "4bd71b7351aea8047b74ec77c7689237",
             "Filename": "TricksterSummonHogOfDesolation.patch"
+        },
+        {
+            "Guid": "66fa2aab59294c44cad02c4dd60f986d",
+            "Filename": "DemonicFormI.patch"
+        },
+        {
+            "Guid": "68f4129f658d02244ad57a4bfe3a5e61",
+            "Filename": "BloodHaze.patch"
+        },
+        {
+            "Guid": "d0ed16b4f939c274e86ceb95c5f680ae",
+            "Filename": "FlamesOfTheAbyss.patch"
+        },
+        {
+            "Guid": "644d2c0d029e54d4188bc34216d9d8c0",
+            "Filename": "ConsumeFear.patch"
         }
     ]
 }
