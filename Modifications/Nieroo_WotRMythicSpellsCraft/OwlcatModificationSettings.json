@@ -556,6 +556,26 @@
         {
             "Guid": "1130f3e7d6a4bb444bbedc3e20dcd1dd",
             "Filename": "RainbowDome.patch"
+        },
+        {
+            "Guid": "e05a95d3cf386844f98e4710d9a4730b",
+            "Filename": "Waterfall.patch"
+        },
+        {
+            "Guid": "1b148617dac4f0341a9b0dec00b11b3a",
+            "Filename": "RepulsiveNature.patch"
+        },
+        {
+            "Guid": "bf3b19ed9c919464aa2a741271718542",
+            "Filename": "DeadlyBeauty.patch"
+        },
+        {
+            "Guid": "2acdc2aeba36d8e45871ec6105c16509",
+            "Filename": "ElusiveNature.patch"
+        },
+        {
+            "Guid": "2c08fcbf3b796b3459aef2488b2cef01",
+            "Filename": "ChaoticHealing.patch"
         }
     ]
 }
