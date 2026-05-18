@@ -576,6 +576,26 @@
         {
             "Guid": "2c08fcbf3b796b3459aef2488b2cef01",
             "Filename": "ChaoticHealing.patch"
+        },
+        {
+            "Guid": "b5a2d0e400dd38e428c953f8a2be5f0b",
+            "Filename": "BurstOfSonicEnergy.patch"
+        },
+        {
+            "Guid": "4e22d7cfda74b3644b31de8e7c044e21",
+            "Filename": "SuddenSquall.patch"
+        },
+        {
+            "Guid": "d7e6f8a0369530341b50987d3ebdfe57",
+            "Filename": "SecondBreath.patch"
+        },
+        {
+            "Guid": "7a3b1ffd1712fab4ca73b1e31820347c",
+            "Filename": "FriendlyHug.patch"
+        },
+        {
+            "Guid": "92ca26ebceec30a4babc1b0582e34ce6",
+            "Filename": "MoralSupport.patch"
         }
     ]
 }
