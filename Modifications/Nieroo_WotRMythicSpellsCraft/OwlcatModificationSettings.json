@@ -456,6 +456,26 @@
         {
             "Guid": "644d2c0d029e54d4188bc34216d9d8c0",
             "Filename": "ConsumeFear.patch"
+        },
+        {
+            "Guid": "8baeffb9caf081e449ce52bf7bdd6236",
+            "Filename": "MorbidRestoration.patch"
+        },
+        {
+            "Guid": "98f23614c5c91e14f89f63d438027d43",
+            "Filename": "DemonicFormII.patch"
+        },
+        {
+            "Guid": "cab32c685bfb3fc4ebe042867af825d6",
+            "Filename": "ProfaneHymn.patch"
+        },
+        {
+            "Guid": "25f741db26e3e27428c4fcb5e60a4ab9",
+            "Filename": "ChannelRage.patch"
+        },
+        {
+            "Guid": "1a33199538c31a14db23318fdb6e10cb",
+            "Filename": "TelekineticStrike.patch"
         }
     ]
 }
