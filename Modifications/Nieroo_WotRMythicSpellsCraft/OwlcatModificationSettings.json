@@ -388,6 +388,14 @@
         {
             "Guid": "30302d12c4aed124ba55857c7dfab114",
             "Filename": "TricksterGloriousBeard.patch"
+        },
+        {
+            "Guid": "112d1c1b34bd66b43b68a131959b4e85",
+            "Filename": "TricksterSummonBeerElementalLarge.patch"
+        },
+        {
+            "Guid": "7be54b9c2801db041b39ed78167b4438",
+            "Filename": "TricksterSummonGreaslyBear.patch"
         }
     ]
 }

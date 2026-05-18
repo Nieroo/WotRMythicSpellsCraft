@@ -1,0 +1,63 @@
+{
+  "AssetId": "8a1d9c0c73484cd3a2d9c110426c1e0f",
+  "Data": {
+    "$type": "fcf558235c4e3b747933f93af7617f7c, BlueprintItemEquipmentUsable",
+    "m_DisplayNameText": {
+      "m_Key": ""
+    },
+    "m_DescriptionText": {
+      "m_Key": ""
+    },
+    "m_FlavorText": {
+      "m_Key": ""
+    },
+    "m_NonIdentifiedNameText": {
+      "m_Key": ""
+    },
+    "m_NonIdentifiedDescriptionText": {
+      "m_Key": ""
+    },
+    "m_Icon": {
+      "guid": "4c39196cae0fcb14e91ab3b2a7e1db50",
+      "fileid": 21300000
+    },
+    "m_Cost": 0,
+    "m_IsCostZero": 0,
+    "m_Weight": 0.2,
+    "m_IsNotable": false,
+    "m_ForceStackable": false,
+    "m_Destructible": true,
+    "m_ShardItem": "!bp_08133117418642fb9d1d2adba9785f43",
+    "m_MiscellaneousType": "None",
+    "m_InventoryPutSound": "ScrollPut",
+    "m_InventoryTakeSound": "ScrollTake",
+    "NeedSkinningForCollect": false,
+    "TrashLootTypes": [
+        "Scrolls",
+        "Scrolls_RE"
+    ],
+    "CR": 0,
+    "m_Ability": "!bp_7be54b9c2801db041b39ed78167b4438",
+    "m_ActivatableAbility": null,
+    "SpendCharges": true,
+    "Charges": 1,
+    "RestoreChargesOnRest": false,
+    "CasterLevel": 8,
+    "SpellLevel": 4,
+    "DC": 16,
+    "IsNonRemovable": false,
+    "m_EquipmentEntity": null,
+    "m_EquipmentEntityAlternatives": [],
+    "m_ForcedRampColorPresetIndex": 0,
+    "Type": "Scroll",
+    "m_IdentifyDC": 0,
+    "m_InventoryEquipSound": "ScrollPut",
+    "m_BeltItemPrefab": {
+      "AssetId": "d711efe72d029364a9ad378d5f0955c0"
+    },
+    "m_Enchantments": []
+  },
+  "Meta": {
+    "ShadowDeleted": false
+  }
+}
