@@ -428,6 +428,18 @@
         {
             "Guid": "844c042deeae2c5408f120f1b3b45c7c",
             "Filename": "TricksterSummonBeerElementalElder.patch"
+        },
+        {
+            "Guid": "a4eeea42be61d0f469676371ee0a5aa7",
+            "Filename": "TricksterRayOfHalberds.patch"
+        },
+        {
+            "Guid": "6e109d21da9e1c44fb772a9eca2cafdd",
+            "Filename": "TricksterTrickFate.patch"
+        },
+        {
+            "Guid": "4bd71b7351aea8047b74ec77c7689237",
+            "Filename": "TricksterSummonHogOfDesolation.patch"
         }
     ]
 }
