@@ -500,6 +500,26 @@
         {
             "Guid": "b3e8e307811b2a24387c2c9226fb4c10",
             "Filename": "DemonTeleport.patch"
+        },
+        {
+            "Guid": "58e9e2883bca1574e9c932e72fd361f9",
+            "Filename": "AbyssalStorm.patch"
+        },
+        {
+            "Guid": "a8815c40e1e6d3a44b57ad7b3727eebb",
+            "Filename": "DemonicFormIV.patch"
+        },
+        {
+            "Guid": "eacb5f788001ca84cb83c3091c1ced19",
+            "Filename": "DevourCast.patch"
+        },
+        {
+            "Guid": "9ccd404771c25e24490e4f8838ea8ebb",
+            "Filename": "TelekineticBurst.patch"
+        },
+        {
+            "Guid": "26aaee184eda5c545a0d353c5082cfd2",
+            "Filename": "Lifebane.patch"
         }
     ]
 }
