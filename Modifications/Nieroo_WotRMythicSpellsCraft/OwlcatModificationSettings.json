@@ -596,6 +596,26 @@
         {
             "Guid": "92ca26ebceec30a4babc1b0582e34ce6",
             "Filename": "MoralSupport.patch"
+        },
+        {
+            "Guid": "af2ed41c7894b934c9a9ca5048af3f58",
+            "Filename": "WindsOfTheFall.patch"
+        },
+        {
+            "Guid": "f7b476555f96afe4b9ba6e7d56d3272a",
+            "Filename": "SongsOfSteel.patch"
+        },
+        {
+            "Guid": "76a031aeeb69f51409c6f9dbaa7cb989",
+            "Filename": "ProtectionOfNature.patch"
+        },
+        {
+            "Guid": "50497d3b8d0b40e4682fd643f5080f45",
+            "Filename": "JoyOfLife.patch"
+        },
+        {
+            "Guid": "0ad356eaf621d9a469e7da0acc552383",
+            "Filename": "RainbowStarfall.patch"
         }
     ]
 }
