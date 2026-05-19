@@ -636,6 +636,30 @@
         {
             "Guid": "88bb6f877c8185543850656a5f14e802",
             "Filename": "RainbowArrows.patch"
+        },
+        {
+            "Guid": "e0c5386bbdbf36346b0dfebe098e9b26",
+            "Filename": "BelieveInYourselfCharisma.patch"
+        },
+        {
+            "Guid": "8942396687d6ce543a33d4d7424211ca",
+            "Filename": "BelieveInYourselfConstitution.patch"
+        },
+        {
+            "Guid": "ce020c1de7b2eb74f9f56053aaec419c",
+            "Filename": "BelieveInYourselfDexterity.patch"
+        },
+        {
+            "Guid": "776683d03cb1fd341b488d09fd4c5290",
+            "Filename": "BelieveInYourselfIntelligence.patch"
+        },
+        {
+            "Guid": "9f476da1aa712284d8e652fc387ce5bb",
+            "Filename": "BelieveInYourselfStrength.patch"
+        },
+        {
+            "Guid": "0f4eaadeb5c9a2749b7d3aaf78058a93",
+            "Filename": "BelieveInYourselfWisdom.patch"
         }
     ]
 }
