@@ -616,6 +616,26 @@
         {
             "Guid": "0ad356eaf621d9a469e7da0acc552383",
             "Filename": "RainbowStarfall.patch"
+        },
+        {
+            "Guid": "a6a86db75c6af6d41aa480f05adae693",
+            "Filename": "HeroNeverSurrender.patch"
+        },
+        {
+            "Guid": "319c5a450b01f834599389853753d0f0",
+            "Filename": "Revolt.patch"
+        },
+        {
+            "Guid": "947a929f3347d3e458a524424fbceccb",
+            "Filename": "UnbreakableBond.patch"
+        },
+        {
+            "Guid": "cd7b6981218a0274c916db0a2fc29855",
+            "Filename": "WaterTorrent.patch"
+        },
+        {
+            "Guid": "88bb6f877c8185543850656a5f14e802",
+            "Filename": "RainbowArrows.patch"
         }
     ]
 }
